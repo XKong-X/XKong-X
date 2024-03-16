@@ -1,11 +1,12 @@
-## 这里是行空XKong-X！ 👋
-### 欢迎你来到行空的GitHub主页！
-#### 以下是简单的自我介绍（甚至算不上）：
+## 这里是行空XKong-X！ 😎
+### 欢迎来到行空的GitHub主页！
+#### 以下是简短的自我介绍（甚至算不上）：
 - 国籍：你猜
 - 年龄：高于弱冠
 - 性别：1130近防炮
-- 是苦逼的电气系学牲
-- 目前仅了解：JavaSE和C语言
+- 状态：未知
+- 兴趣：扣1复活劳大
+- 目前了解的编程知识：JavaSE（Java基础语法）、C语言基础语法和Java数据结构
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XKong-X&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
