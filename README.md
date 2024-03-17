@@ -6,6 +6,7 @@
 - 性别：1130近防炮
 - 状态：未知
 - 兴趣：扣1复活劳大
+- 联系我：404910156@qq.com/syndgaste@gmail.com
 - 目前了解的编程知识：JavaSE（Java基础语法）、C语言基础语法和Java数据结构
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XKong-X&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
