@@ -1,6 +1,8 @@
-## 这里是行空XKong-X！ 😎
+## 这里是行空XKong-X！
 ### 欢迎来到行空的GitHub主页！
-#### 以下是简短的自我介绍（甚至算不上）：
+#### 以下是一些个人信息：
+- 联系我：404910156@qq.com/syndgaste@gmail.com
+<!--
 - 国籍：你猜
 - 年龄：高于弱冠
 - 性别：1130近防炮
@@ -8,6 +10,7 @@
 - 兴趣：扣1复活劳大
 - 联系我：404910156@qq.com/syndgaste@gmail.com
 - 目前了解的编程知识：JavaSE（Java基础语法）、C语言基础语法和Java数据结构
+-->
 - 仓库中所使用的语言种类及使用比例如下：
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XKong-X&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
